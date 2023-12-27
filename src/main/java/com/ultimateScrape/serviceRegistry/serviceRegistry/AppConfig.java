@@ -13,7 +13,6 @@ public class AppConfig {
 
     @Bean
     public CorsWebFilter corsWebFilter() {
-        System.out.println("reg123");
         CorsConfiguration corsConfig = new CorsConfiguration();
         corsConfig.setAllowedOrigins(Arrays.asList("http://localhost:8080"));
         corsConfig.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
