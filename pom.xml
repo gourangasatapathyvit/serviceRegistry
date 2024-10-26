@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ultimateScrape.serviceRegistry</groupId>
 	<artifactId>serviceRegistry</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.2</version>
 	<name>serviceRegistry</name>
 	<description>Eureka serviceRegistry</description>
 	<properties>
