@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ultimateScrape.serviceRegistry</groupId>
 	<artifactId>serviceRegistry</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<name>serviceRegistry</name>
 	<description>Eureka serviceRegistry</description>
 	<properties>
@@ -21,7 +21,7 @@
 		<dependency>
 			<groupId>com.github.gourangasatapathyvit</groupId>
 			<artifactId>scrapemodule</artifactId>
-			<version>805a096091</version>
+			<version>3a9476e340</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
